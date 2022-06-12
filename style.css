@@ -81,4 +81,5 @@ div{
 
     margin-top: 10px;
     margin-bottom: 10px;
+    transition:opacity 1s;
 }
